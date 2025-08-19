@@ -1,0 +1,1 @@
+export type MvIconButtonIconType = 'iconFont' | 'image' | 'elementIcon'

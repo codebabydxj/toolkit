@@ -1,0 +1,1 @@
+export type MvUploadListType = 'text' | 'picture-card' | 'picture'

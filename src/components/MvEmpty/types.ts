@@ -1,0 +1,1 @@
+export type EmptyModeType = 'Error404' | 'NoData' | 'Permit' | 'Record' | 'Search' | 'Message' | 'Schedule' | 'Image' | 'ShoppingCart' | 'Collect'

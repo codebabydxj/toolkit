@@ -1,0 +1,14 @@
+node_modules
+.DS_Store
+dist
+dist-ssr
+*.local
+*.tgz
+.vscode
+.history
+lib
+lib/*
+./hooks
+./hooks/*
+pnpm-lock.yaml
+yarn.lock
