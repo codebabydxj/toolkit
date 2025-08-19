@@ -1,5 +1,5 @@
 {
-  "name": "nuxt-toolkit",
+  "name": "nuxt-toolkits",
   "version": "0.1.0",
   "description": "Provide convenient components and methods",
   "main": "dist/index.cjs",

@@ -144,7 +144,7 @@ export const arrToDict = (
  * @param { any } value
  * @return { Boolean } true | false
  * @example
- * import { isEmpty } from "nuxt-toolkit"
+ * import { isEmpty } from "nuxt-toolkits"
  * console.log(isEmpty()) //true
  * console.log(isEmpty("")) //true
  * console.log(isEmpty(" ")) //true
@@ -182,7 +182,7 @@ export const isEmpty = (value: any = undefined): Boolean => {
  * @param { any } value
  * @return { Boolean } true | false
  * @example
- * import { isNotEmpty } from "nuxt-toolkit"
+ * import { isNotEmpty } from "nuxt-toolkits"
  * console.log(isNotEmpty()) //false
  * console.log(isNotEmpty("")) //false
  * console.log(isNotEmpty(" ")) //false

@@ -71,7 +71,7 @@ export default defineConfig(({ command, mode }: UserConfig) => {
           "vue-router",
           "crypto-js",
           "sass",
-          "nuxt-toolkit",
+          "nuxt-toolkits",
           "dayjs",
           "lodash",
         ],

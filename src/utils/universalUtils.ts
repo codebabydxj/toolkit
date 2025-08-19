@@ -76,7 +76,7 @@ export { convertToEn };
 
 export let moduleCache = {
   vue: Vue,
-  "nuxt-toolkit": BMU,
+  "nuxt-toolkits": BMU,
   lodash: lodash,
   "echarts": echarts,
   "@element-plus/icons-vue": ElementIcon,
